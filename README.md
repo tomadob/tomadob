@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @tomadob
+- I’m currently learning Python from scratch. Let's keep our fingers crossed and hope I won't leave it after first hour.
